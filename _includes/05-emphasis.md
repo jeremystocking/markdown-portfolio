@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Italy*
+_Italy_
+
+**Germany**
+__Germany__
+
+_It-**German**-aly_
